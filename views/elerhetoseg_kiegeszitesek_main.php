@@ -1,5 +1,5 @@
 <h2>
-    <br>Kiegészítések:<br>
-    <br>Kiegészítés 1<br>
-    <br>Kiegészítés 2<br>
+    <br>Kapitányaink:<br>
+    <br>Nagy Lajos olimpikon vitorlázó<br>
+    <br>Kovács György hajógépész technikus<br>
 </h2>

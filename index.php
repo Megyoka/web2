@@ -1,10 +1,10 @@
 <?php
 
 //alkalmazás gyökér könyvtára a szerveren
-define('SERVER_ROOT', $_SERVER['DOCUMENT_ROOT'].'/web2/');
+define('SERVER_ROOT', $_SERVER['DOCUMENT_ROOT'].'/beadando_web/');
 
 //URL cím az alkalmazás gyökeréhez
-define('SITE_ROOT', 'http://localhost/web2/');
+define('SITE_ROOT', 'http://localhost/beadando_web/');
 
 // a router.php vezérlõ betöltése
 require_once(SERVER_ROOT . 'controllers/' . 'router.php');

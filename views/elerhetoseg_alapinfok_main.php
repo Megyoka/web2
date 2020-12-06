@@ -1,5 +1,5 @@
 <h2>
-    <br>Alapinfók:<br>
-    <br>Alapinfó 1<br>
-    <br>Alapinfó 2<br>
+    <br>Cégnév: Sailing Kft.<br>
+    <br>1998. óta szeljük a habokat.<br>
+    <br>adószám: 12345678-2-51<br>
 </h2>
